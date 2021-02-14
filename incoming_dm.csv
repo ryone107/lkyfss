@@ -1,2 +1,2 @@
-time,message,status,id,sender_id
-'10:30','hei','FAIL','12212','3232323'
+date,time,message,status,id,sender_id
+'2021-02-14','10:30','hei','FAIL','12212','3232323'
